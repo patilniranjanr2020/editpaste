@@ -1,0 +1,27 @@
+{
+  "name": "editpaste",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fast local browser image cropping tool focused on clipboard paste, drag-and-drop, and fixed crop ratios.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "image-cropper",
+    "clipboard",
+    "crop",
+    "canvas",
+    "privacy-first"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vite": "^6.2.0",
+    "vitest": "^3.0.7"
+  }
+}

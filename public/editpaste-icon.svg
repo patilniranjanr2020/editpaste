@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">EditPaste icon</title>
+
+  <rect x="4" y="4" width="120" height="120" rx="26" fill="#111111"/>
+
+  <path d="M28 24h45l21 21v58H28z"
+        fill="#F5F3EE"
+        stroke="#F5F3EE"
+        stroke-width="4"
+        stroke-linejoin="round"/>
+
+  <path d="M73 24v24h21"
+        fill="none"
+        stroke="#111111"
+        stroke-width="4"
+        stroke-linejoin="round"/>
+
+  <path d="M42 62h34M42 78h23"
+        fill="none"
+        stroke="#111111"
+        stroke-width="7"
+        stroke-linecap="round"/>
+
+  <path d="M67 64l29 29"
+        fill="none"
+        stroke="#2563EB"
+        stroke-width="9"
+        stroke-linecap="round"/>
+
+  <path d="M96 93V69M96 93H72"
+        fill="none"
+        stroke="#2563EB"
+        stroke-width="9"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>
