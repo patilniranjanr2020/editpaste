@@ -6,6 +6,16 @@
   <strong>Fast, private, browser-only image cropping utility with instant clipboard paste, drag-and-drop, and fixed crop ratios.</strong>
 </p>
 
+<h2 align="center">
+  🚀 Live Website: <a href="https://patilniranjanr2020.github.io/editpaste/">https://patilniranjanr2020.github.io/editpaste/</a>
+</h2>
+
+<p align="center">
+  <a href="https://patilniranjanr2020.github.io/editpaste/">
+    <img src="https://img.shields.io/badge/Live%20Website-Visit%20EditPaste-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Website">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-111111.svg" alt="License">
   <img src="https://img.shields.io/badge/build-passing-059669.svg" alt="Build Status">
